@@ -1,0 +1,8 @@
+[submodule "Devices/T000_zHome"]
+	path = Devices/T000_zHome
+	url = git@github.com:ZiB/T000_zHome.git
+	branch = master
+[submodule "Devices/T001_zGate"]
+	path = Devices/T001_zGate
+	url = git@github.com:ZiB/T001_zGate.git
+	branch = master
